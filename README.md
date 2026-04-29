@@ -1,8 +1,10 @@
 # Agency.AI - Modern Digital Agency Landing Page
 
+**🚀 Live Demo:** [https://agencyai-mu.vercel.app/](https://agencyai-mu.vercel.app/)
+
 A responsive and interactive landing page built for a modern digital agency. This project features a clean UI, smooth scroll animations, dark mode support, and a fully functional contact form. 
 
-This project was built following a tutorial by [Channel Name/GreatStack], with personal customizations and upgrades including a migration to Tailwind CSS v4 and custom interactive UI elements.
+This project was built following a tutorial by Channel GreatStack, with personal customizations and upgrades including a migration to Tailwind CSS v4 and custom interactive UI elements.
 
 ## ✨ Features
 
