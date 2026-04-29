@@ -43,7 +43,6 @@ Make sure you have Node.js installed.
 4. Start the development server:
     npm run dev
 
-🤝 Acknowledgments / Credits
-Inspiration & Tutorial: This project was originally inspired by the tutorial from GreatStack - https://youtu.be/sbMHR9K60NY?si=cJZ0aUPj_QVipcOW.
-
-Design & Assets: Assets provided by GreatStack.
+## 🤝 Acknowledgments / Credits
+* **Inspiration & Tutorial:** This project was originally inspired by the tutorial from GreatStack - https://youtu.be/sbMHR9K60NY?si=cJZ0aUPj_QVipcOW.
+* **Design & Assets:** Assets provided by GreatStack.
