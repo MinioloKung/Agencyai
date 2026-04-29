@@ -32,8 +32,6 @@ Make sure you have Node.js installed.
 ### Installation
 
 1. Clone the repository:
-   
-```bash
    git clone [https://github.com/](https://github.com/)MinioloKung/Agencyai.git
 
 2. Navigate to the project directory:
